@@ -590,6 +590,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: CircleAppear_Transition
       objectReference: {fileID: 0}
+    - target: {fileID: 8831707980825121335, guid: 1370b30f8a3b35b4faa2388ecd6d8dfa,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1370b30f8a3b35b4faa2388ecd6d8dfa, type: 3}
 --- !u!1 &1450462093
