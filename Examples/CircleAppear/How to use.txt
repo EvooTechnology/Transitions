@@ -1,2 +1,0 @@
-1º Add "SceneA" and "SceneB" to Scenes in Build(File/Build Settings)
-2º Open "Scene" press Play and click the button "START GAME"
