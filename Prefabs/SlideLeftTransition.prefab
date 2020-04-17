@@ -112,12 +112,12 @@ GameObject:
   - component: {fileID: 8831707980825121332}
   - component: {fileID: 8831707980825121333}
   m_Layer: 0
-  m_Name: SlideLeft_Transition
+  m_Name: SlideLeftTransition
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &8831707980825121334
 Transform:
   m_ObjectHideFlags: 0

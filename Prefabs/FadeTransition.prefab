@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8831707980787400806}
   - component: {fileID: 8831707980787400807}
   - component: {fileID: 8831707980787400824}
+  - component: {fileID: 1671119219}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -99,6 +100,18 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!225 &1671119219
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8831707980787400826}
+  m_Enabled: 1
+  m_Alpha: 0
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
+  m_IgnoreParentGroups: 0
 --- !u!1 &8831707980825121335
 GameObject:
   m_ObjectHideFlags: 0
@@ -112,12 +125,12 @@ GameObject:
   - component: {fileID: 8831707980825121332}
   - component: {fileID: 8831707980825121333}
   m_Layer: 0
-  m_Name: Fade_Transition
+  m_Name: FadeTransition
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &8831707980825121334
 Transform:
   m_ObjectHideFlags: 0
@@ -260,7 +273,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &8831707981293469948
 RectTransform:
   m_ObjectHideFlags: 0

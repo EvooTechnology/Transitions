@@ -1,0 +1,2 @@
+1º Add the scenes of "Scenes" folder in Build(File/Build Settings)
+2º Open "Tutorial" scene and click the button "START GAME"
