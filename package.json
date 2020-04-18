@@ -1,10 +1,12 @@
 {
   "name": "Transitions",
+  "displayName": "Transitions",
   "version": "1.1",
-  "repository": {
-      "type": "git",
-      "url": "https://github.com/EvooTechnology/Transitions.git"
-    },
-    "author": "Evoo Technology",
-    "license": "MIT",
+  "description": "Scene transition framework with ready to use transitions.",
+  "keywords": [],
+  "author": {
+    "name": "Evoo Technology",
+    "email": "evoo.contact@gmail.com",
+    "url": "https://evoo.be"
+  }
 }
