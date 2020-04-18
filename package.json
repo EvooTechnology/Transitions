@@ -1,0 +1,10 @@
+{
+  "name": "Transitions",
+  "version": "1.1",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/EvooTechnology/Transitions.git"
+    },
+    "author": "Evoo Technology",
+    "license": "MIT",
+}
